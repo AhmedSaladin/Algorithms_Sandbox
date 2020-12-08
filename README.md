@@ -30,6 +30,7 @@ and I'm using C++ for this purpose because it has some features I'm interested i
 <ul>
 <li> Beginning C++ Programming – From Beginner to Beyond (Udemy)
 <li> Algorithmic Toolbox (Coursera)
+<li> Learning Algorithms Through Programming and Puzzle Solving
 <li> Problem Solving With C++ 10th
 <li> Grokking Algorithms
 <li> Think Like A Programmer
