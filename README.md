@@ -1,4 +1,4 @@
-# C--
+# Sandbox
 This repo is for algorithms studies and problem-solving to record my learning path and my notes about algorithms and problem-solving techniques
 and I'm using C++ for this purpose because it has some features I'm interested in like memory management, overloading operator and streams, STL, etc.
 ## C++ Learning Path
