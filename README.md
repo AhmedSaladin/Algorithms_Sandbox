@@ -8,13 +8,13 @@ and I'm using C++ for this purpose because it has some features I'm interested i
 - [x] Smart Pointers and Namespaces
 - [x] Exception Handling
 - [x] I/O Streams
-- [ ] Standard Template Library (STL)
+- [x] Standard Template Library (STL)
 - [ ] GUI
 ## Data Structures and Algorithms
 - [x] Sorting Algorithms
 - [x] Greedy Algorithms
-- [ ] Divide-and-Conquer
-- [ ] Basic Data Structures
+- [x] Divide-and-Conquer
+- [x] Basic Data Structures
 - [ ] Dynamic Arrays and Amortized Analysis
 - [ ] Priority Queues and Disjoint Sets
 - [ ] Hash Tables
